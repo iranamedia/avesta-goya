@@ -1,0 +1,21 @@
+{
+  "name": "اوستای گویا",
+  "publisher": "رسانه‌ی ایرانا",
+  "sections": [
+    {
+      "id": "yasna-28",
+      "order": 1,
+      "title": "یسنا · هات ۲۸",
+      "group": "گاتاها",
+      "book": "یسنا",
+      "hat": 28,
+      "categories": [
+        "گاتاها",
+        "نیایش",
+        "ستایش امشاسپندان"
+      ],
+      "data": "bakhsh-ha/yasna-28.json",
+      "audio": "ava/yasna-28.m4a"
+    }
+  ]
+}
