@@ -16,9 +16,10 @@
     "title_end": 2.0
   },
   "video": {
-    "url": null,
+    "url": "https://github.com/iranamedia/avesta-goya/releases/download/yasna-28/Avesta-Gathas-Yasna28.mp4",
     "duration": 281.27,
-    "note": "آوا در نما ۶ ثانیه دیرتر آغاز می‌شود"
+    "note": "آوا در نما ۶ ثانیه دیرتر آغاز می‌شود",
+    "page": "https://github.com/iranamedia/avesta-goya/releases/tag/yasna-28"
   },
   "music": "بم‌آوای پیوسته بر «ر»، هماهنگی‌های آرام در رنگ شور، زنگ در آغاز هر بند، کوس نرم در آغاز و پایان",
   "verses": [

@@ -26,4 +26,4 @@
 
 | # | بخش | دسته |
 |---|---|---|
-| ۱ | [یسنا · هات ۲۸](bakhsh-ha/yasna-28.json) | گاتاها · نیایش · ستایش امشاسپندان |
+| ۱ | [یسنا · هات ۲۸](bakhsh-ha/yasna-28.json) · [نما](https://github.com/iranamedia/avesta-goya/releases/tag/yasna-28) | گاتاها · نیایش · ستایش امشاسپندان |
